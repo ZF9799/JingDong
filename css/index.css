@@ -971,6 +971,7 @@
 	width: 37px;
 	height: 42px;
 	background-image: url(../sprite/sprite.footer.png);
+	margin-right: 8px;
 }
 .footer-t-pic:nth-child(1)>i{
 	background-position: 0 -192px;
